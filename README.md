@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Lovienna 👋  
 
-<!--
-**Lovienna-Tech/Lovienna-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Cybersecurity & Networking Professional 
+🔒 Passionate about protecting systems, solving problems, and building resilient networks.  
+🌍 Based in London, UK.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Networking: Cisco Packet Tracer, LAN/WAN setup, IP addressing, router/switch configs  
+- Cybersecurity: Fundamentals of SOC operations, threat awareness, system hardening basics  
+- Cloud & DevOps (learning path): Azure, AWS, Linux, Git/GitHub  
+- Tools: (learning) Wireshark, CLI, Git, Linux  
+
+---
+
+## 🌱 Currently Learning
+- CompTIA Security+ (building a strong foundation in security concepts)  
+- Microsoft Azure & Cloud Security  
+- Hands-on labs in networking and SOC fundamentals  
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/lovienna-bailey  
+- 📧 Email: lovienna_bailey@icloud.com  
+
+---
+
+⭐️ Fun fact: I like to think of myself as the **“Packet Queen”** 👑 — making sure every packet finds its way safely and securely.
